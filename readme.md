@@ -219,7 +219,7 @@ Réaliser un Rest Controller qui sert en général à gérer les cas particulier
 
 - Organisation préparation du titre
 
-NB : Il est fortement conseiller d'utiliser les outils de dev F12
+NB : Il est fortement conseillé d'utiliser les outils de dev F12
 
 **Ressources**
 
