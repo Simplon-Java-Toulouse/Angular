@@ -123,7 +123,8 @@ Réaliser un Rest Controller qui sert en général à gérer les cas particulier
   -> démarrer votre serveur
   
   -> modifier votre menu déroulant pour obtenir le résultat suivant :
-      ![](/first.png)
+  
+  ![](/first.png)
 
 **52.3 Réalisation de votre premier composant**
   
@@ -138,7 +139,8 @@ Réaliser un Rest Controller qui sert en général à gérer les cas particulier
 **52.4 Il est temps de faire travailler notre composant**
   
   -> ajouter y un bouton qui provoque la récupèration de l'ensemble des produits via notre api puis les afficher comme ci dessous :
-      ![](/second.png)
+  
+  ![](/second.png)
       
 **52.5 Service**
   
@@ -147,7 +149,8 @@ Réaliser un Rest Controller qui sert en général à gérer les cas particulier
 **52.6 Pipe**
   
   -> Utiliser maintenant un outil de formatage (Pipe) pour afficher les nombres décimaux comme ici :
-      ![](/third.png)
+  
+  ![](/third.png)
 
 <h2>Jeudi</h2>
 
@@ -156,17 +159,20 @@ Réaliser un Rest Controller qui sert en général à gérer les cas particulier
 **53.1 Pagination** 
   
   -> Nous allons maintenant exploiter la pagination prévue en back aussi apporter les modifications pour obtenir 5 produits par page comme ici :
-      ![](/fourth.png)
+  
+   ![](/fourth.png)
 
 **53.2 Formulaire**
   
   -> Réaliser un formulaire de recherche de produits toujours en exploitant vos micro service côté back :
-      ![](/fifth.png)
+  
+   ![](/fifth.png)
 
 **53.3 Supprimer un produit**
   
   -> Ajouter un bouton pour supprimer un produit qui aura pour effet de le supprimer au niveau du back, n'oubliez pas de demander confirmation !
-      ![](/sixth.png)
+  
+   ![](/sixth.png)
 
 **53.4 Ajouter un produit**
   
@@ -178,8 +184,10 @@ Réaliser un Rest Controller qui sert en général à gérer les cas particulier
 **53.5 Editer un produit**
   
   -> Réaliser un nouveau composant d'édition afin d'éditer un produit et de le mettre à jour en back forçément :
-      ![](/edit.png)
-      ![](/update.png)
+  
+  ![](/edit.png)
+ 
+  ![](/update.png)
   
   -> trouver un moyen de crypter les données sensibles en utilisant base64 comme ici
   
