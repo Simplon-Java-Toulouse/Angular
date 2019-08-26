@@ -36,11 +36,11 @@ nb : Dans ce premier Sprint, concentrez-vous particulièrement sur la gestion de
 
 - dependances : sql : jpa + h2 pour bdd virtuel) ; web : web(rest controller) + rest repo(web service) ; core : lombok (genère les getters...) ; tous les aspects securité seront gérés plutard avec spring security.
 
-**50.3 Création des entités Product & Category + mécanisme d'annotation JPA**
+**50.3 Création l'entité Product + mécanisme d'annotation JPA**
 
    -> Nouveauté ici consiste à trouver un moyen de générer automatiquement getters, setters, constructeurs sans paramètres grâce à Lombok, constructeurs avec tous les paramètres, méthode toString... pour ce faire il faut ajouter le plug in Lombok à IntelliJ
 
-**50.4 Ajout des interfaces JPA Repository**
+**50.4 Ajout de l'interface JPA Repository**
 
 **50.5 Ajouter maintenant des produits dans votre base virtuelle puis afficher les pour vérif**
 
