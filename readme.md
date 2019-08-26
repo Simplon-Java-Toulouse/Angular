@@ -32,7 +32,7 @@ nb : Dans ce premier Sprint, concentrez-vous particulièrement sur la gestion de
 
 **50.2 Création d'un projet à l'aide de l'assistant spring**
 
-- java 8 ; Group : co.simplon + Artifact ; CatService ; maven ; jar
+- java 8 ; Group : co.simplon + Artifact : cat-service ; maven ; jar
 
 - dependances : sql : jpa + h2 pour bdd virtuel) ; web : web(rest controller) + rest repo(web service) ; core : lombok (genère les getters...) ; tous les aspects securité seront gérés plutard avec spring security.
 
